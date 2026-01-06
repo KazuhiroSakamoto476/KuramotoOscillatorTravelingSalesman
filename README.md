@@ -7,6 +7,6 @@ Fig4_ODE_calculation_50bodyTravellingSalesman.m.
 
 Other files, such as dope_an_oscillator.m, whose names begin with lowercase letters, are subroutines called by the above programmes.
 
-The names of the MATLAB code files, Excel files, and video files correspond to the figures.
+The names of the MATLAB code files, Excel data files, and movie files correspond to the figures.
 
 For any questions, please contact sakamoto@tohoku-mpu.ac.jp.
